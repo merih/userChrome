@@ -1,0 +1,2 @@
+# userChrome
+Firefox userChrome customizations
